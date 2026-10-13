@@ -1,0 +1,7 @@
+../Core/Src/driver_servo_pwm.c:17:20:_get_CCR_pointer	16	static
+../Core/Src/driver_servo_pwm.c:44:10:_get_max_ind	24	static
+../Core/Src/driver_servo_pwm.c:59:5:servo_PWM_start	16	static
+../Core/Src/driver_servo_pwm.c:66:5:servo_PWM_stop	16	static
+../Core/Src/driver_servo_pwm.c:73:5:servo_PWM_set_angle	40	static
+../Core/Src/driver_servo_pwm.c:90:5:servo_PWM_goto_angle	96	static,ignoring_inline_asm
+../Core/Src/driver_servo_pwm.c:133:5:servo_PWM_group_goto_angle	120	static,ignoring_inline_asm

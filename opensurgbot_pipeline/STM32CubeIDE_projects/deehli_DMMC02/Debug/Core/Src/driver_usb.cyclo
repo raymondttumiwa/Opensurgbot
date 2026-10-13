@@ -1,0 +1,2 @@
+../Core/Src/driver_usb.c:18:8:USB_on_receive	2
+../Core/Src/driver_usb.c:38:8:USB_transmit	3
